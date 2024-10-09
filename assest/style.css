@@ -1,0 +1,95 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    font-family:Roboto;
+    background-color: rgb(235, 235, 248)
+}
+.navone{
+    background-color: rgb(66, 139, 139);
+}
+.slider{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.nnn{
+    background-color: aqua;
+}
+
+.bg-colornav{
+    background-color: rgb(66, 139, 139);
+}
+.nav-link   li a{
+   color:   rgb(66, 139, 139);
+    
+} 
+.circlediv{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    
+}
+
+
+.a1{
+    color: rgb(151, 226, 201);
+
+}
+
+.circle{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border-color: rgb(202, 202, 213);
+    border-style: solid;
+ 
+
+ }
+.circledivx{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border-color: blue;
+    border-style: dashed;
+
+}
+
+.ii{
+    color: rgb(66, 139, 139); 
+}
+
+.line{
+    width: 100px;
+    height: 3px;
+    background-color: rgb(66, 139, 139) ;
+    border-radius: 2px;
+}
+.carousel-caption{
+    bottom: 20%;
+}
+
+ .shap{
+    color: rgb(66, 139, 139); 
+     font-size: 20px;
+
+ }
+ .regtangle{
+    width: 1000px; 
+    height: 200px;
+    border-radius:30px;
+    background-color: rgba(79, 74, 74, 0.1);
+ }
+
+
+ h3{
+    font-size: 30px;
+ }
+ .h44{
+    font-size: 20px; 
+ }
+
+
